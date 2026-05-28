@@ -1,0 +1,862 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CA09A4D0-F30A-47E8-B267-E7E4530D4030}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>diseasePrediction</RootNamespace>
+    <AssemblyName>diseasePrediction</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\frmAdminAccount.aspx" />
+    <Content Include="Admin\frmAdminHome.aspx" />
+    <Content Include="Admin\frmParameters.aspx" />
+    <Content Include="css\bootstrap-responsive.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\coin-slider.css" />
+    <Content Include="css\custom-styles.css" />
+    <Content Include="css\flexslider.css" />
+    <Content Include="css\owl.carousel.css" />
+    <Content Include="css\prettyPhoto.css" />
+    <Content Include="css\slider.css" />
+    <Content Include="css\style-ie.css" />
+    <Content Include="css\style.css" />
+    <Content Include="Doctor\Compare.aspx" />
+    <Content Include="Doctor\frmDoctorAccount.aspx" />
+    <Content Include="Doctor\frmDoctorHome.aspx" />
+    <Content Include="Doctor\frmTreatment.aspx" />
+    <Content Include="Doctor\KNNSinglePatient.aspx" />
+    <Content Include="Doctor\_CMKNN.aspx" />
+    <Content Include="Doctor\_CMNB.aspx" />
+    <Content Include="Doctor\_KNN.aspx" />
+    <Content Include="Doctor\_S1.aspx" />
+    <Content Include="Doctor\_S2.aspx" />
+    <Content Include="Doctor\_S3.aspx" />
+    <Content Include="Doctor\_S4.aspx" />
+    <Content Include="Doctor\_S5.aspx" />
+    <Content Include="Doctor\_StagePrediction.aspx" />
+    <Content Include="fonts\css\font-awesome.css" />
+    <Content Include="fonts\css\font-awesome.min.css" />
+    <Content Include="frmAboutus.aspx" />
+    <Content Include="frmContactus.aspx" />
+    <Content Include="frmLogin.aspx" />
+    <Content Include="frmSignout.aspx" />
+    <Content Include="images\about-us-icon-1.jpg" />
+    <Content Include="images\abt_circle_data.png" />
+    <Content Include="images\ad125x125.jpg" />
+    <Content Include="images\ad468x60.gif" />
+    <Content Include="images\adminicon.jpg" />
+    <Content Include="images\adminicon1.jpg" />
+    <Content Include="images\ads_pic.jpg" />
+    <Content Include="images\background.gif" />
+    <Content Include="images\banner.jpg" />
+    <Content Include="images\banner1.jpg" />
+    <Content Include="images\banner101.jpg" />
+    <Content Include="images\banner102.jpg" />
+    <Content Include="images\banner103.png" />
+    <Content Include="images\banner104.jpg" />
+    <Content Include="images\banner2.jpg" />
+    <Content Include="images\banner3.jpg" />
+    <Content Include="images\banner4.jpg" />
+    <Content Include="images\banner5.jpg" />
+    <Content Include="images\best-ever-german-chocolate-cake-main.jpg" />
+    <Content Include="images\BIRYANI-250.jpg" />
+    <Content Include="images\bkgd.jpg" />
+    <Content Include="images\bkgd1.jpg" />
+    <Content Include="images\bkgd_1.jpg" />
+    <Content Include="images\black_file.gif" />
+    <Content Include="images\blog_pic1.jpg" />
+    <Content Include="images\blog_pic2.jpg" />
+    <Content Include="images\blue_file.gif" />
+    <Content Include="images\body-left-back.jpg" />
+    <Content Include="images\body-right.jpg" />
+    <Content Include="images\body.jpg" />
+    <Content Include="images\c-arrows.png" />
+    <Content Include="images\cablogo.jpg" />
+    <Content Include="images\caesar-salad_0.jpg" />
+    <Content Include="images\Caramel-Macchiato-Iced-Coffee-Ice-Cream-by-Crunchy-Creamy-Sweet.jpg" />
+    <Content Include="images\cart.gif" />
+    <Content Include="images\Cart.jpg" />
+    <Content Include="images\cart1.jpg" />
+    <Content Include="images\cart2.png" />
+    <Content Include="images\cart5.jpg" />
+    <Content Include="images\cart6.jpg" />
+    <Content Include="images\CAUVGTUR.jpg" />
+    <Content Include="images\cca757f6a8afa6ca684940245876909b.jpg" />
+    <Content Include="images\Changepassword_Frame.JPG" />
+    <Content Include="images\Changepwdicon.jpg" />
+    <Content Include="images\changepwdicon1.jpg" />
+    <Content Include="images\change_password.png" />
+    <Content Include="images\Chicken-Biryani-8-465x620.jpg" />
+    <Content Include="images\clear.gif" />
+    <Content Include="images\closelabel.gif" />
+    <Content Include="images\cocktail.jpg" />
+    <Content Include="images\comments.gif" />
+    <Content Include="images\conatctus.png" />
+    <Content Include="images\contact us button.jpg" />
+    <Content Include="images\contact.jpg" />
+    <Content Include="images\contactimage.jpg" />
+    <Content Include="images\Container_Header.gif" />
+    <Content Include="images\contentbody.gif" />
+    <Content Include="images\contentfoot.gif" />
+    <Content Include="images\delete2.png" />
+    <Content Include="images\deletebtn.jpg" />
+    <Content Include="images\DeleteIcon.jpg" />
+    <Content Include="images\DeleteRed.png" />
+    <Content Include="images\demo\1.gif" />
+    <Content Include="images\demo\2.gif" />
+    <Content Include="images\demo\200x140.gif" />
+    <Content Include="images\demo\240x90.gif" />
+    <Content Include="images\demo\290x100.gif" />
+    <Content Include="images\demo\3.gif" />
+    <Content Include="images\demo\4.gif" />
+    <Content Include="images\demo\60x60.gif" />
+    <Content Include="images\demo\80x80.gif" />
+    <Content Include="images\demo\avatar.gif" />
+    <Content Include="images\demo\imgl.gif" />
+    <Content Include="images\demo\imgr.gif" />
+    <Content Include="images\demo\index.html" />
+    <Content Include="images\det_pic.jpg" />
+    <Content Include="images\discussion_board.jpg" />
+    <Content Include="images\divider.gif" />
+    <Content Include="images\divider1.jpg" />
+    <Content Include="images\divider2.jpg" />
+    <Content Include="images\download1.jpeg" />
+    <Content Include="images\DSC05718poori.png" />
+    <Content Include="images\DSC_1842.jpg" />
+    <Content Include="images\dum-ka-chicken-500x500.jpg" />
+    <Content Include="images\ecommerce-2.jpg" />
+    <Content Include="images\edit-10-xxl.png" />
+    <Content Include="images\EditIcon.jpg" />
+    <Content Include="images\exps43485_HC1597097D201A.jpg" />
+    <Content Include="images\FAQ.jpg" />
+    <Content Include="images\FAQs.jpg" />
+    <Content Include="images\Faqsicon.JPG" />
+    <Content Include="images\FAQ_FRAME.JPG" />
+    <Content Include="images\featured_slide_left.png" />
+    <Content Include="images\featured_slide_right.png" />
+    <Content Include="images\featured_slide_trans.png" />
+    <Content Include="images\feedback1.jpg" />
+    <Content Include="images\feedback2.jpeg" />
+    <Content Include="images\feedbackIcon.jpg" />
+    <Content Include="images\feedbackicon1.jpg" />
+    <Content Include="images\feedbackicon2.jpg" />
+    <Content Include="images\file.png" />
+    <Content Include="images\file2.png" />
+    <Content Include="images\findout.jpg" />
+    <Content Include="images\finishbtn.jpg" />
+    <Content Include="images\FNM_110110-Pies-027_s4x3.jpg.rend.hgtvcom.406.305.jpeg" />
+    <Content Include="images\footer.jpg" />
+    <Content Include="images\form_input_long.gif" />
+    <Content Include="images\FPslide1.jpg" />
+    <Content Include="images\FPslide2.jpg" />
+    <Content Include="images\FPslide3.jpg" />
+    <Content Include="images\gal1.jpg" />
+    <Content Include="images\gal2.jpg" />
+    <Content Include="images\gal3.jpg" />
+    <Content Include="images\gal4.jpg" />
+    <Content Include="images\gal5.jpg" />
+    <Content Include="images\gal6.jpg" />
+    <Content Include="images\gallery.jpg" />
+    <Content Include="images\gas.JPG" />
+    <Content Include="images\goshop.jpg" />
+    <Content Include="images\Greek-Salad-Chicken-Souvlaki-Tzatziki-12.jpg" />
+    <Content Include="images\greek-salad2.jpg" />
+    <Content Include="images\Grid_ActionDelete.gif" />
+    <Content Include="images\Grid_Footer.gif" />
+    <Content Include="images\Grid_Header.gif" />
+    <Content Include="images\Grid_RowAlternate.gif" />
+    <Content Include="images\Grid_RowHover.gif" />
+    <Content Include="images\Grid_RowNormal.gif" />
+    <Content Include="images\Grid_RowNumber.gif" />
+    <Content Include="images\hawaiian-island-sunset-drink-recipe-03.jpg" />
+    <Content Include="images\Healtcare-Solutions1.jpg" />
+    <Content Include="images\Helpicon.jpg" />
+    <Content Include="images\Homebg.jpg" />
+    <Content Include="images\Homemade-Tzatziki-Sauce.jpg" />
+    <Content Include="images\hyderabadi-mutton-biryani-recipe.jpg" />
+    <Content Include="images\icon1.jpg" />
+    <Content Include="images\icon2.jpg" />
+    <Content Include="images\icon3.jpg" />
+    <Content Include="images\icon4.jpg" />
+    <Content Include="images\icon5.jpg" />
+    <Content Include="images\images.jpeg" />
+    <Content Include="images\images1.jpg" />
+    <Content Include="images\images5.jpg" />
+    <Content Include="images\image_1323671324608.jpg" />
+    <Content Include="images\img1.jpg" />
+    <Content Include="images\img2.jpg" />
+    <Content Include="images\IMG_2848-1.jpg" />
+    <Content Include="images\index.html" />
+    <Content Include="images\ipod.jpg" />
+    <Content Include="images\italian-salad.jpg" />
+    <Content Include="images\Items.jpg" />
+    <Content Include="images\jalapeno-bottle-caps.png" />
+    <Content Include="images\jalpaan-restaurant.jpg" />
+    <Content Include="images\kashmiri-naan-600x587.jpg" />
+    <Content Include="images\Lahori-Butter-Murgh-Recipe.jpg" />
+    <Content Include="images\lava.gif" />
+    <Content Include="images\lava.png" />
+    <Content Include="images\lcd.jpg" />
+    <Content Include="images\lcd_1.jpg" />
+    <Content Include="images\li.gif" />
+    <Content Include="images\li_a.gif" />
+    <Content Include="images\Log1.jpg" />
+    <Content Include="images\login.gif" />
+    <Content Include="images\loginbg2.jpg" />
+    <Content Include="images\loginbg4.jpg" />
+    <Content Include="images\loginbg9.jpg" />
+    <Content Include="images\logo.gif" />
+    <Content Include="images\logo.jpg" />
+    <Content Include="images\logo1.jpg" />
+    <Content Include="images\logo2.jpg" />
+    <Content Include="images\Logout.jpg" />
+    <Content Include="images\low_protein_macaroni_and_cheese.jpg" />
+    <Content Include="images\mainlogin1.jpg" />
+    <Content Include="images\mainlogo.jpg" />
+    <Content Include="images\mainlogo123.jpg" />
+    <Content Include="images\mainlogo2.jpg" />
+    <Content Include="images\mainlogo3.jpg" />
+    <Content Include="images\mainlogo5.jpg" />
+    <Content Include="images\mainlogo6.jpg" />
+    <Content Include="images\mainlogo7.jpg" />
+    <Content Include="images\mainlogo8.jpg" />
+    <Content Include="images\main_bg.gif" />
+    <Content Include="images\manualIcon.jpg" />
+    <Content Include="images\maxresdefault.jpg" />
+    <Content Include="images\members-icon.jpg" />
+    <Content Include="images\menu.jpg" />
+    <Content Include="images\Message_Error.png" />
+    <Content Include="images\Message_Information.png" />
+    <Content Include="images\Message_Success.png" />
+    <Content Include="images\Message_Warning.png" />
+    <Content Include="images\Methi-Matar-Malai-Recipe-0.jpg" />
+    <Content Include="images\mg_0659.jpg" />
+    <Content Include="images\mg_0664.jpg" />
+    <Content Include="images\mixer.JPG" />
+    <Content Include="images\mobile.jpg" />
+    <Content Include="images\Mobile_1.jpg" />
+    <Content Include="images\Mobile_2.jpg" />
+    <Content Include="images\Mobile_3.jpg" />
+    <Content Include="images\Mobile_4.jpg" />
+    <Content Include="images\Mobile_5.jpg" />
+    <Content Include="images\mozzarella-sticks.jpg" />
+    <Content Include="images\mpbile.jpg" />
+    <Content Include="images\myorders1.JPG" />
+    <Content Include="images\nachos-salsa-plate-34915079.jpg" />
+    <Content Include="images\NewCart.jpg" />
+    <Content Include="images\next.png" />
+    <Content Include="images\nextlabel.gif" />
+    <Content Include="images\no-bake-choc-pie.jpg" />
+    <Content Include="images\NullBtn.jpg" />
+    <Content Include="images\oetlBFhfahhbc_bigger.jpg" />
+    <Content Include="images\onion-naan.png" />
+    <Content Include="images\orderedListOne.png" />
+    <Content Include="images\orderedListThree.png" />
+    <Content Include="images\orderedListTwo.png" />
+    <Content Include="images\orders.jpg" />
+    <Content Include="images\osn1.jpg" />
+    <Content Include="images\osn10.png" />
+    <Content Include="images\osn11.jpg" />
+    <Content Include="images\osn2.jpg" />
+    <Content Include="images\osn3.png" />
+    <Content Include="images\osn4.jpg" />
+    <Content Include="images\osn5.jpg" />
+    <Content Include="images\osn6.gif" />
+    <Content Include="images\osn7.jpg" />
+    <Content Include="images\osn8.jpg" />
+    <Content Include="images\osn9.jpg" />
+    <Content Include="images\overlay.png" />
+    <Content Include="images\p1.jpg" />
+    <Content Include="images\pecan-pie-recipe-paleo-gluten-free-1.jpg" />
+    <Content Include="images\pic1.jpg" />
+    <Content Include="images\pina-colada.jpg" />
+    <Content Include="images\polly-s-bakery-cafe.jpg" />
+    <Content Include="images\Postbox.jpg" />
+    <Content Include="images\potato-naan.jpg" />
+    <Content Include="images\prev.png" />
+    <Content Include="images\prevlabel.gif" />
+    <Content Include="images\proceed.jpg" />
+    <Content Include="images\profile1.jpg" />
+    <Content Include="images\profile2.png" />
+    <Content Include="images\Progressbar_Content.gif" />
+    <Content Include="images\Progressbar_Wrapper.gif" />
+    <Content Include="images\puhlish.jpg" />
+    <Content Include="images\purple_file.gif" />
+    <Content Include="images\P_frame_2.bmp" />
+    <Content Include="images\P_frame_3.bmp" />
+    <Content Include="images\P_frame_4.bmp" />
+    <Content Include="images\Recipe_of_murgh-shahi-korma.jpg" />
+    <Content Include="images\refrigarator.JPG" />
+    <Content Include="images\register-300x270.jpg" />
+    <Content Include="images\registericon.gif" />
+    <Content Include="images\registericon.png" />
+    <Content Include="images\registerlogo.jpg" />
+    <Content Include="images\Register_Now_Icon.jpg" />
+    <Content Include="images\Registration_Frame.JPG" />
+    <Content Include="images\replybtn.png" />
+    <Content Include="images\ReplyFrame.jpg" />
+    <Content Include="images\resetpwd.jpg" />
+    <Content Include="images\right-ad1.jpg" />
+    <Content Include="images\right-ad2.jpg" />
+    <Content Include="images\right-ad3.jpg" />
+    <Content Include="images\right-box1.jpg" />
+    <Content Include="images\round_bot.gif" />
+    <Content Include="images\round_top.gif" />
+    <Content Include="images\rss.gif" />
+    <Content Include="images\Salad%283%29.jpg" />
+    <Content Include="images\sale.jpg" />
+    <Content Include="images\Sale_1.jpg" />
+    <Content Include="images\satisicon.jpg" />
+    <Content Include="images\search.gif" />
+    <Content Include="images\search.jpg" />
+    <Content Include="images\search_bg.gif" />
+    <Content Include="images\security-icon-big.gif" />
+    <Content Include="images\serviceicon.jpg" />
+    <Content Include="images\shade.png" />
+    <Content Include="images\shop-online-banner.png" />
+    <Content Include="images\shopping-basket-refresh-icon.png" />
+    <Content Include="images\slide1.jpg" />
+    <Content Include="images\slide2.jpg" />
+    <Content Include="images\slide3.jpg" />
+    <Content Include="images\slider_bg.jpg" />
+    <Content Include="images\slideshow-holiday-mocktails-holiday-shirley-temple-1.jpg" />
+    <Content Include="images\social-icons.png" />
+    <Content Include="images\social-sprite.gif" />
+    <Content Include="images\spacer.gif" />
+    <Content Include="images\split-pea-soup-800.jpg" />
+    <Content Include="images\submit.gif" />
+    <Content Include="images\supa-de-rosii.jpg" />
+    <Content Include="images\SWCorn_Chowder_NoChicken_product-page-300x168.jpg" />
+    <Content Include="images\t1.png" />
+    <Content Include="images\t2.jpeg" />
+    <Content Include="images\t5.png" />
+    <Content Include="images\ta-mark.png" />
+    <Content Include="images\tab_l.gif" />
+    <Content Include="images\tab_r.gif" />
+    <Content Include="images\templatemo_banner_bg.jpg" />
+    <Content Include="images\templatemo_banner_image_bg.png" />
+    <Content Include="images\templatemo_banner_repeat.jpg" />
+    <Content Include="images\templatemo_button_01.png" />
+    <Content Include="images\templatemo_footer_bg.jpg" />
+    <Content Include="images\templatemo_footer_title_bg.png" />
+    <Content Include="images\templatemo_header_01_bg.jpg" />
+    <Content Include="images\templatemo_header_02_bg.jpg" />
+    <Content Include="images\templatemo_header_bg.jpg" />
+    <Content Include="images\templatemo_image_01.jpg" />
+    <Content Include="images\templatemo_image_02.jpg" />
+    <Content Include="images\templatemo_image_03.jpg" />
+    <Content Include="images\templatemo_image_04.jpg" />
+    <Content Include="images\templatemo_logo.jpg" />
+    <Content Include="images\templatemo_logo_blank.jpg" />
+    <Content Include="images\templatemo_menu_divider.jpg" />
+    <Content Include="images\templatemo_menu_left.jpg" />
+    <Content Include="images\templatemo_menu_right.jpg" />
+    <Content Include="images\templatemo_side_column_divider.jpg" />
+    <Content Include="images\textbackground.gif" />
+    <Content Include="images\tomatensoep-andalucie.jpg" />
+    <Content Include="images\tools1.jpg" />
+    <Content Include="images\topnav_bg.gif" />
+    <Content Include="images\trans.png" />
+    <Content Include="images\transportationCost.jpg" />
+    <Content Include="images\Triple-Chocolate-Cake-2.jpg" />
+    <Content Include="images\twitter_bg.gif" />
+    <Content Include="images\twitter_logo.gif" />
+    <Content Include="images\Untitled-1.gif" />
+    <Content Include="images\Untitled-1.jpg" />
+    <Content Include="images\Untitled-10.png" />
+    <Content Include="images\Untitled-2.jpg" />
+    <Content Include="images\Untitled-3.jpg" />
+    <Content Include="images\Untitled-5.jpg" />
+    <Content Include="images\userpic.gif" />
+    <Content Include="images\Video_icon.png" />
+    <Content Include="images\washingmachineimage1.jpg" />
+    <Content Include="images\washingmachineimage2.JPG" />
+    <Content Include="img\apple-touch-icon-114x114.png" />
+    <Content Include="img\apple-touch-icon-72x72.png" />
+    <Content Include="img\apple-touch-icon.png" />
+    <Content Include="img\author-avatar.jpg" />
+    <Content Include="img\back-top-btn.png" />
+    <Content Include="img\bg_direction_nav.png" />
+    <Content Include="img\container-bg.png" />
+    <Content Include="img\favicon.ico" />
+    <Content Include="img\gallery-item-hover.png" />
+    <Content Include="img\gallery-item-icons.png" />
+    <Content Include="img\gallery\blog-med-img-1.jpg" />
+    <Content Include="img\gallery\client-img-1.png" />
+    <Content Include="img\gallery\client-img-2.png" />
+    <Content Include="img\gallery\client-img-3.png" />
+    <Content Include="img\gallery\client-img-4.png" />
+    <Content Include="img\gallery\client-img-5.png" />
+    <Content Include="img\gallery\flickr-img-1.jpg" />
+    <Content Include="img\gallery\gallery-img-1-3col.jpg" />
+    <Content Include="img\gallery\gallery-img-1-4col-cir.jpg" />
+    <Content Include="img\gallery\gallery-img-1-4col.jpg" />
+    <Content Include="img\gallery\gallery-img-1-6col.jpg" />
+    <Content Include="img\gallery\gallery-img-1-full.jpg" />
+    <Content Include="img\gallery\gallery-img-13-6col.jpg" />
+    <Content Include="img\gallery\gallery-img-14-6col.jpg" />
+    <Content Include="img\gallery\gallery-img-2-thumb.jpg" />
+    <Content Include="img\gallery\post-img-1.jpg" />
+    <Content Include="img\gallery\slidder1.jpg" />
+    <Content Include="img\gallery\slidder2.jpg" />
+    <Content Include="img\gallery\slidder3.jpg" />
+    <Content Include="img\gallery\slidder4.jpg" />
+    <Content Include="img\gallery\slider-img-1.jpg" />
+    <Content Include="img\gallery\slider1.jpeg" />
+    <Content Include="img\gallery\slider2.jpg" />
+    <Content Include="img\gallery\slider3.jpg" />
+    <Content Include="img\gallery\slider4.jpeg" />
+    <Content Include="img\gallery\thumbnail-270x130.jpg" />
+    <Content Include="img\gallery\thumbnail-270x300.jpg" />
+    <Content Include="img\glyphicons-halflings-white.png" />
+    <Content Include="img\glyphicons-halflings.png" />
+    <Content Include="img\location-map.jpg" />
+    <Content Include="img\page-bg-1.jpg" />
+    <Content Include="img\piccolo-footer-logo.png" />
+    <Content Include="img\piccolo-logo.png" />
+    <Content Include="img\piccolo-logo1.png" />
+    <Content Include="img\piccolo-logo2.png" />
+    <Content Include="img\post-item-hover.png" />
+    <Content Include="img\prettyPhoto\default\default_thumb.png" />
+    <Content Include="img\prettyPhoto\default\loader.gif" />
+    <Content Include="img\prettyPhoto\default\sprite.png" />
+    <Content Include="img\prettyPhoto\default\sprite_next.png" />
+    <Content Include="img\prettyPhoto\default\sprite_prev.png" />
+    <Content Include="img\prettyPhoto\default\sprite_x.png" />
+    <Content Include="img\prettyPhoto\default\sprite_y.png" />
+    <Content Include="img\rnd-client-mask.png" />
+    <Content Include="img\slider-caption-bg.png" />
+    <Content Include="img\social-icons.png" />
+    <Content Include="img\user-avatar.jpg" />
+    <Content Include="Index.aspx" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\coin-slider.min.js" />
+    <Content Include="js\cufon-yui.js" />
+    <Content Include="js\droid_sans_400-droid_sans_700.font.js" />
+    <Content Include="js\jquery-1.4.2.min.js" />
+    <Content Include="js\jquery.cslider.js" />
+    <Content Include="js\jquery.custom.js" />
+    <Content Include="js\jquery.easing.1.3.js" />
+    <Content Include="js\jquery.flexslider.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\jquery.prettyPhoto.js" />
+    <Content Include="js\jquery.quicksand.js" />
+    <Content Include="js\modernizr.custom.28468.js" />
+    <Content Include="js\owl.carousel.js" />
+    <Content Include="js\script.js" />
+    <Content Include="Patient\frmPatientHome.aspx" />
+    <Content Include="Patient\_DietRecc.aspx" />
+    <Content Include="Receptionist\frmDataset.aspx" />
+    <Content Include="Receptionist\frmNewPatient.aspx" />
+    <Content Include="Receptionist\frmReceptionistAccount.aspx" />
+    <Content Include="Receptionist\_DietRecc.aspx" />
+    <Content Include="ThemeBlue.css" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\Admin.Master.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin.Master.designer.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmAdminAccount.aspx.cs">
+      <DependentUpon>frmAdminAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\frmAdminAccount.aspx.designer.cs">
+      <DependentUpon>frmAdminAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmAdminHome.aspx.cs">
+      <DependentUpon>frmAdminHome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\frmAdminHome.aspx.designer.cs">
+      <DependentUpon>frmAdminHome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmParameters.aspx.cs">
+      <DependentUpon>frmParameters.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\frmParameters.aspx.designer.cs">
+      <DependentUpon>frmParameters.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BLL.cs" />
+    <Compile Include="DataLayer.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataLayer.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\Compare.aspx.cs">
+      <DependentUpon>Compare.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\Compare.aspx.designer.cs">
+      <DependentUpon>Compare.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\Doctor.Master.cs">
+      <DependentUpon>Doctor.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\Doctor.Master.designer.cs">
+      <DependentUpon>Doctor.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\frmDoctorAccount.aspx.cs">
+      <DependentUpon>frmDoctorAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\frmDoctorAccount.aspx.designer.cs">
+      <DependentUpon>frmDoctorAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\frmDoctorHome.aspx.cs">
+      <DependentUpon>frmDoctorHome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\frmDoctorHome.aspx.designer.cs">
+      <DependentUpon>frmDoctorHome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\frmTreatment.aspx.cs">
+      <DependentUpon>frmTreatment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\frmTreatment.aspx.designer.cs">
+      <DependentUpon>frmTreatment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\KNNSinglePatient.aspx.cs">
+      <DependentUpon>KNNSinglePatient.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\KNNSinglePatient.aspx.designer.cs">
+      <DependentUpon>KNNSinglePatient.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\_CMKNN.aspx.cs">
+      <DependentUpon>_CMKNN.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\_CMKNN.aspx.designer.cs">
+      <DependentUpon>_CMKNN.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\_CMNB.aspx.cs">
+      <DependentUpon>_CMNB.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\_CMNB.aspx.designer.cs">
+      <DependentUpon>_CMNB.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\_KNN.aspx.cs">
+      <DependentUpon>_KNN.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\_KNN.aspx.designer.cs">
+      <DependentUpon>_KNN.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\_S1.aspx.cs">
+      <DependentUpon>_S1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\_S1.aspx.designer.cs">
+      <DependentUpon>_S1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\_S2.aspx.cs">
+      <DependentUpon>_S2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\_S2.aspx.designer.cs">
+      <DependentUpon>_S2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\_S3.aspx.cs">
+      <DependentUpon>_S3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\_S3.aspx.designer.cs">
+      <DependentUpon>_S3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\_S4.aspx.cs">
+      <DependentUpon>_S4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\_S4.aspx.designer.cs">
+      <DependentUpon>_S4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\_S5.aspx.cs">
+      <DependentUpon>_S5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\_S5.aspx.designer.cs">
+      <DependentUpon>_S5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor\_StagePrediction.aspx.cs">
+      <DependentUpon>_StagePrediction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Doctor\_StagePrediction.aspx.designer.cs">
+      <DependentUpon>_StagePrediction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmAboutus.aspx.cs">
+      <DependentUpon>frmAboutus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmAboutus.aspx.designer.cs">
+      <DependentUpon>frmAboutus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmContactus.aspx.cs">
+      <DependentUpon>frmContactus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmContactus.aspx.designer.cs">
+      <DependentUpon>frmContactus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.aspx.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmLogin.aspx.designer.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmSignout.aspx.cs">
+      <DependentUpon>frmSignout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmSignout.aspx.designer.cs">
+      <DependentUpon>frmSignout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Main.Master.cs">
+      <DependentUpon>Main.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Main.Master.designer.cs">
+      <DependentUpon>Main.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\frmPatientHome.aspx.cs">
+      <DependentUpon>frmPatientHome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Patient\frmPatientHome.aspx.designer.cs">
+      <DependentUpon>frmPatientHome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\Patient.Master.cs">
+      <DependentUpon>Patient.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Patient\Patient.Master.designer.cs">
+      <DependentUpon>Patient.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Patient\_DietRecc.aspx.cs">
+      <DependentUpon>_DietRecc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Patient\_DietRecc.aspx.designer.cs">
+      <DependentUpon>_DietRecc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Receptionist\frmDataset.aspx.cs">
+      <DependentUpon>frmDataset.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Receptionist\frmDataset.aspx.designer.cs">
+      <DependentUpon>frmDataset.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Receptionist\frmNewPatient.aspx.cs">
+      <DependentUpon>frmNewPatient.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Receptionist\frmNewPatient.aspx.designer.cs">
+      <DependentUpon>frmNewPatient.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Receptionist\frmReceptionistAccount.aspx.cs">
+      <DependentUpon>frmReceptionistAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Receptionist\frmReceptionistAccount.aspx.designer.cs">
+      <DependentUpon>frmReceptionistAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Receptionist\Receptionist.Master.cs">
+      <DependentUpon>Receptionist.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Receptionist\Receptionist.Master.designer.cs">
+      <DependentUpon>Receptionist.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Receptionist\_DietRecc.aspx.cs">
+      <DependentUpon>_DietRecc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Receptionist\_DietRecc.aspx.designer.cs">
+      <DependentUpon>_DietRecc.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\Admin.Master" />
+    <None Include="css\.DS_Store" />
+    <None Include="DataLayer.xsc">
+      <DependentUpon>DataLayer.xsd</DependentUpon>
+    </None>
+    <None Include="DataLayer.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataLayer.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataLayer.xss">
+      <DependentUpon>DataLayer.xsd</DependentUpon>
+    </None>
+    <Content Include="Main.Master" />
+    <Content Include="Doctor\Doctor.Master" />
+    <Content Include="Receptionist\Receptionist.Master" />
+    <None Include="Doctor\Files\CKD Dataset.xls" />
+    <None Include="Doctor\Files\S1.pdf" />
+    <None Include="Doctor\Files\S2.pdf" />
+    <None Include="Doctor\Files\S3.pdf" />
+    <None Include="Doctor\Files\S4.pdf" />
+    <None Include="Doctor\Files\S5.pdf" />
+    <None Include="Doctor\Files\STAGE_1_Diet_Recommedation.pdf" />
+    <None Include="Doctor\Files\STAGE_2_Diet_Recommedation.pdf" />
+    <None Include="Doctor\Files\STAGE_3_Diet_Recommedation.pdf" />
+    <None Include="Doctor\Files\STAGE_4_Diet_Recommedation.pdf" />
+    <None Include="Doctor\Files\STAGE_5_Diet_Recommedation.pdf" />
+    <None Include="fonts\fonts\fontawesome-webfont.eot" />
+    <None Include="fonts\fonts\fontawesome-webfont.svg" />
+    <None Include="fonts\fonts\fontawesome-webfont.ttf" />
+    <None Include="fonts\fonts\fontawesome-webfont.woff" />
+    <None Include="fonts\fonts\FontAwesome.otf" />
+    <None Include="fonts\less\bordered-pulled.less" />
+    <None Include="fonts\less\core.less" />
+    <None Include="fonts\less\fixed-width.less" />
+    <None Include="fonts\less\font-awesome.less" />
+    <None Include="fonts\less\icons.less" />
+    <None Include="fonts\less\larger.less" />
+    <None Include="fonts\less\list.less" />
+    <None Include="fonts\less\mixins.less" />
+    <None Include="fonts\less\path.less" />
+    <None Include="fonts\less\rotated-flipped.less" />
+    <None Include="fonts\less\spinning.less" />
+    <None Include="fonts\less\stacked.less" />
+    <None Include="fonts\less\variables.less" />
+    <None Include="fonts\OpenSans-Regular-webfont.ttf" />
+    <None Include="fonts\scss\font-awesome.scss" />
+    <None Include="fonts\scss\_bordered-pulled.scss" />
+    <None Include="fonts\scss\_core.scss" />
+    <None Include="fonts\scss\_fixed-width.scss" />
+    <None Include="fonts\scss\_icons.scss" />
+    <None Include="fonts\scss\_larger.scss" />
+    <None Include="fonts\scss\_list.scss" />
+    <None Include="fonts\scss\_mixins.scss" />
+    <None Include="fonts\scss\_path.scss" />
+    <None Include="fonts\scss\_rotated-flipped.scss" />
+    <None Include="fonts\scss\_spinning.scss" />
+    <None Include="fonts\scss\_stacked.scss" />
+    <None Include="fonts\scss\_variables.scss" />
+    <None Include="fonts\texgyreadventor-regular-webfont.ttf" />
+    <None Include="images\demo\Thumbs.db" />
+    <None Include="images\Thumbs.db" />
+    <None Include="img\.DS_Store" />
+    <None Include="img\gallery\.DS_Store" />
+    <None Include="img\gallery\Thumbs.db" />
+    <None Include="img\prettyPhoto\.DS_Store" />
+    <None Include="img\Thumbs.db" />
+    <None Include="js\.DS_Store" />
+    <Content Include="Patient\Patient.Master" />
+    <None Include="Patient\Files\CKD Dataset.xls" />
+    <None Include="Patient\Files\S1.pdf" />
+    <None Include="Patient\Files\S2.pdf" />
+    <None Include="Patient\Files\S3.pdf" />
+    <None Include="Patient\Files\S4.pdf" />
+    <None Include="Patient\Files\S5.pdf" />
+    <None Include="Patient\Files\STAGE_1_Diet_Recommedation.pdf" />
+    <None Include="Patient\Files\STAGE_2_Diet_Recommedation.pdf" />
+    <None Include="Patient\Files\STAGE_3_Diet_Recommedation.pdf" />
+    <None Include="Patient\Files\STAGE_4_Diet_Recommedation.pdf" />
+    <None Include="Patient\Files\STAGE_5_Diet_Recommedation.pdf" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>19153</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,175 @@
+D:\Academic 2015-2016\Major Projects\Clustering Patient Opinions\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2015-2016\Major Projects\Clustering Patient Opinions\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2015-2016\Major Projects\Clustering Patient Opinions\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2015-2016\Major Projects\Clustering Patient Opinions\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2015-2016\Major Projects\Clustering Patient Opinions\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2015-2016\Major Projects\Automatic Medical Treatment Using Data Mining\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2015-2016\Major Projects\Automatic Medical Treatment Using Data Mining\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2015-2016\Major Projects\Automatic Medical Treatment Using Data Mining\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2015-2016\Major Projects\Automatic Medical Treatment Using Data Mining\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2015-2016\Major Projects\Automatic Medical Treatment Using Data Mining\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2016-2017\Projects\Diploma\Kavya & Kavitha\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2016-2017\Projects\Diploma\Kavya & Kavitha\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2016-2017\Projects\Diploma\Kavya & Kavitha\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2016-2017\Projects\Diploma\Kavya & Kavitha\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2016-2017\Projects\Diploma\Kavya & Kavitha\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2016-2017\Projects\Disease Prediction\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2016-2017\Projects\Disease Prediction\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2016-2017\Projects\Disease Prediction\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2016-2017\Projects\Disease Prediction\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2016-2017\Projects\Disease Prediction\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+C:\Users\win7\Desktop\CKD Project\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Users\win7\Desktop\CKD Project\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Users\win7\Desktop\CKD Project\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\CKD Project\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Users\win7\Desktop\CKD Project\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2016-2017\Projects\CKD Project\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2016-2017\Projects\CKD Project\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2016-2017\Projects\CKD Project\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2016-2017\Projects\CKD Project\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2016-2017\Projects\CKD Project\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+C:\Users\win7\Desktop\CKD Project_Prajwala\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Users\win7\Desktop\CKD Project_Prajwala\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Users\win7\Desktop\CKD Project_Prajwala\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\CKD Project_Prajwala\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Users\win7\Desktop\CKD Project_Prajwala\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\CKD Project_Prajwala\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\CKD Project_Prajwala\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\CKD Project_Prajwala\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\CKD Project_Prajwala\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\CKD Project_Prajwala\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+C:\Users\win7\Desktop\CKD_22_4\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Users\win7\Desktop\CKD_22_4\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Users\win7\Desktop\CKD_22_4\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\CKD_22_4\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Users\win7\Desktop\CKD_22_4\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+C:\Users\win7\Desktop\CKD_02_5\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Users\win7\Desktop\CKD_02_5\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Users\win7\Desktop\CKD_02_5\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\CKD_02_5\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Users\win7\Desktop\CKD_02_5\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Others\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Others\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Others\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Others\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Others\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Nisarga\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Nisarga\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Nisarga\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Nisarga\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Nisarga\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Nisarga\P2\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Nisarga\P2\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Nisarga\P2\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Nisarga\P2\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Users\win7\Desktop\Design Phase 2017-2018\CKD\Project\Nisarga\P2\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2017-2018\IEEE Papers\Predicting Breast Cancer Recurrence using effective Classification and Feature Selection technique\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2017-2018\IEEE Papers\Predicting Breast Cancer Recurrence using effective Classification and Feature Selection technique\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2017-2018\IEEE Papers\Predicting Breast Cancer Recurrence using effective Classification and Feature Selection technique\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2017-2018\IEEE Papers\Predicting Breast Cancer Recurrence using effective Classification and Feature Selection technique\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2017-2018\IEEE Papers\Predicting Breast Cancer Recurrence using effective Classification and Feature Selection technique\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2017-2018\IEEE Papers\An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques\Project\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2017-2018\IEEE Papers\An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques\Project\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2017-2018\IEEE Papers\An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques\Project\Project\diseasePrediction\diseasePrediction\obj\Debug\ResolveAssemblyReference.cache
+D:\Academic 2017-2018\IEEE Papers\An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques\Project\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2017-2018\IEEE Papers\An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques\Project\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2017-2018\IEEE Papers\An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques\Project\Veeresh\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2017-2018\IEEE Papers\An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques\Project\Veeresh\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2017-2018\IEEE Papers\An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques\Project\Veeresh\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2017-2018\IEEE Papers\An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques\Project\Veeresh\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2017-2018\IEEE Papers\An Improved Approach for Prediction of Parkinson’s Disease using Machine Learning Techniques\Project\Veeresh\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Projects\Diabetes Prediction\Others\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Users\win7\Desktop\Projects\Diabetes Prediction\Others\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Users\win7\Desktop\Projects\Diabetes Prediction\Others\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Projects\Diabetes Prediction\Others\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Users\win7\Desktop\Projects\Diabetes Prediction\Others\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\Diabetes Prediction\Others\Diabetes Prediction\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\Diabetes Prediction\Others\Diabetes Prediction\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\Diabetes Prediction\Others\Diabetes Prediction\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2018-2019\Projects\Diabetes Prediction\Others\Diabetes Prediction\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\Diabetes Prediction\Others\Diabetes Prediction\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\Diabetes Prediction\Others\Diabetes Prediction KNN Naive Bayes Final\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\Diabetes Prediction\Others\Diabetes Prediction KNN Naive Bayes Final\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\Diabetes Prediction\Others\Diabetes Prediction KNN Naive Bayes Final\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\Diabetes Prediction\Others\Diabetes Prediction KNN Naive Bayes Final\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\CKD\Others\CKD Prediction KNN Naive Bayes Final\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\CKD\Others\CKD Prediction KNN Naive Bayes Final\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\CKD\Others\CKD Prediction KNN Naive Bayes Final\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\CKD\Others\CKD Prediction KNN Naive Bayes Final\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\CKD\Others\CKD and Stage Prediction KNN Naive Bayes Comparative Analysis Final\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\CKD\Others\CKD and Stage Prediction KNN Naive Bayes Comparative Analysis Final\Project Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2018-2019\Projects\CKD\Others\CKD and Stage Prediction KNN Naive Bayes Comparative Analysis Final\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2018-2019\Projects\CKD\Others\CKD and Stage Prediction KNN Naive Bayes Comparative Analysis Final\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2018-2019\Projects\CKD\Others\CKD and Stage Prediction KNN Naive Bayes Comparative Analysis Final\Project Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\SJCE\CKD and Stage Prediction KNN Naive Bayes Comparative Analysis Final\Keerthana Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\SJCE\CKD and Stage Prediction KNN Naive Bayes Comparative Analysis Final\Keerthana Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\SJCE\CKD and Stage Prediction KNN Naive Bayes Comparative Analysis Final\Keerthana Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\SJCE\CKD and Stage Prediction KNN Naive Bayes Comparative Analysis Final\Keerthana Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\SJCE\CKD and Stage Prediction KNN Naive Bayes Comparative Analysis Final\Keerthana Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\PES\CKD Prediction Using ML\Dharmaj Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\PES\CKD Prediction Using ML\Dharmaj Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\PES\CKD Prediction Using ML\Dharmaj Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\PES\CKD Prediction Using ML\Dharmaj Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\PES\CKD Prediction Using ML\Dharmaj Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\PES\CKD Prediction Using ML\Dharmaj Final Copy May7th\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\PES\CKD Prediction Using ML\Dharmaj Final Copy May7th\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2019-2020\Projects\PES\CKD Prediction Using ML\Dharmaj Final Copy May7th\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2019-2020\Projects\PES\CKD Prediction Using ML\Dharmaj Final Copy May7th\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2019-2020\Projects\PES\CKD Prediction Using ML\Dharmaj Final Copy May7th\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\CKD Supritha\Supritha Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\CKD Supritha\Supritha Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2020-2021\Projects\SJCE\CKD Supritha\Supritha Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2020-2021\Projects\SJCE\CKD Supritha\Supritha Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD Prediction BE\Rahul Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD Prediction BE\Rahul Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD Prediction BE\Rahul Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD Prediction BE\Rahul Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\MCA\Pooja Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\MCA\Pooja Final Copy\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\MCA\Pooja Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\MCA\Pooja Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\MCA\Pooja Final Copy\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD MTech\LAVANYA FINAL NEW\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD MTech\LAVANYA FINAL NEW\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD MTech\LAVANYA FINAL NEW\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD MTech\LAVANYA FINAL NEW\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD MTech\LAVANYA FINAL NEW\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD MTech\LAVANYA FINAL NEW 5th JULY\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD MTech\LAVANYA FINAL NEW 5th JULY\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD MTech\LAVANYA FINAL NEW 5th JULY\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD MTech\LAVANYA FINAL NEW 5th JULY\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2021-2022\PROJECTS\SJCE\CKD MTech\LAVANYA FINAL NEW 5th JULY\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL Updated\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL Updated\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL Updated\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL Updated\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL CM\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL CM\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL CM\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2022-2023\_PROJECTS\BE\SJCE\CKD Project\CKD FINAL\CKD FINAL CM\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\Academic 2023-2024\PROJECTS\BCA\CKD\CKD FINAL\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\Academic 2023-2024\PROJECTS\BCA\CKD\CKD FINAL\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\Academic 2023-2024\PROJECTS\BCA\CKD\CKD FINAL\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\Academic 2023-2024\PROJECTS\BCA\CKD\CKD FINAL\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+D:\OneDrive\Desktop\CKD KNN FINAL\CKD KNN FINAL\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+D:\OneDrive\Desktop\CKD KNN FINAL\CKD KNN FINAL\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+D:\OneDrive\Desktop\CKD KNN FINAL\CKD KNN FINAL\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+D:\OneDrive\Desktop\CKD KNN FINAL\CKD KNN FINAL\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+C:\Users\surya\Desktop\CKD KNN FINAL\CKD KNN FINAL\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.dll
+C:\Users\surya\Desktop\CKD KNN FINAL\CKD KNN FINAL\Project\diseasePrediction\diseasePrediction\bin\diseasePrediction.pdb
+C:\Users\surya\Desktop\CKD KNN FINAL\CKD KNN FINAL\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.dll
+C:\Users\surya\Desktop\CKD KNN FINAL\CKD KNN FINAL\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.pdb
+C:\Users\surya\Desktop\CKD KNN FINAL\CKD KNN FINAL\Project\diseasePrediction\diseasePrediction\obj\Debug\diseasePrediction.csprojResolveAssemblyReference.cache
