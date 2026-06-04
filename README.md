@@ -22,7 +22,8 @@ The Chronic Kidney Disease Prediction System is a healthcare-focused web applica
 * HTML
 * CSS
 * JavaScript
-* ## Modules and Responsibilities
+
+## Modules and Responsibilities
 
 ### Admin Module
 
